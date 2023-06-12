@@ -24,3 +24,11 @@ This PHP code generates a dynamic image by combining background images and overl
 4. Ensure that the necessary TrueType font files are available and specify the font file path in the `imagettftext()` function.
 5. Configure your web server to process PHP files.
 6. Access the PHP script through a web browser or use it as an endpoint to retrieve the generated image.
+
+
+<br>
+
+<div align="center">
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
+	<h4>Sathira Sri Sathsara @ 2023</h4>
+</div>	
