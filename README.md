@@ -1,7 +1,7 @@
 # teamspeak-banner
 This PHP code generates a dynamic image by combining background images and overlaying a top image. It also applies text to the image using TrueType fonts. The resulting image is then outputted as a PNG file.
 
-## Live Preview 
+## Live Preview > https://ts.enforcers.lk/banner/image.php
 
 <img src="https://ts.enforcers.lk/banner/image.php">
 
